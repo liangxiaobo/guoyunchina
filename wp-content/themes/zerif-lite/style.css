@@ -100,7 +100,8 @@ a img {
 	border: 0;
 }
 body {
-	font-family: 'Lato', Helvetica, sans-serif !important;
+	/*font-family: 'Lato', Helvetica, sans-serif !important;*/
+	font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", 微软雅黑, 宋体, Tahoma, Arial, Helvetica, STHeiti;
 	font-size: 14px;
 	color: #808080;
 	font-weight: normal;
@@ -185,7 +186,8 @@ input,
 select,
 textarea {
 	color: #404040;
-	font-family: sans-serif;
+	/*font-family: sans-serif;*/
+	font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", 微软雅黑, 宋体, Tahoma, Arial, Helvetica, STHeiti;
 	font-size: 16px;
 	font-size: 1.6rem;
 	line-height: 1.5;
@@ -272,7 +274,8 @@ h1, h2, h3, h4, h5, h6 {
 	clear: both;
 }
 h1,h2 {
-	font-family: 'Montserrat', Helvetica, sans-serif;
+	/*font-family: 'Montserrat', Helvetica, sans-serif;*/
+	font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", 微软雅黑, 宋体, Tahoma, Arial, Helvetica, STHeiti;
 	font-weight: 700;
 	line-height: 35px;
 }
@@ -2810,7 +2813,8 @@ width: -webkit-calc(100% / 4);
 	padding-top: 15px;
 }
 .feedback-box .client-info .client-name {
-	font-family: 'Homemade Apple', serif;
+	/*font-family: 'Homemade Apple', serif;*/
+	font-family: arial, "Hiragino Sans GB", "Microsoft Yahei", 微软雅黑, 宋体, Tahoma, Arial, Helvetica, STHeiti;;
 	color: #404040;
 }
 .feedback-box .client-info .client-company {

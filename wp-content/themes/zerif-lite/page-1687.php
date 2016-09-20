@@ -73,9 +73,8 @@ get_header(); ?>
 <div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="#zuzhijiagou" style="color:#808080;">组织架构</a></div>
 <div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="#qiyewenhua" style="color:#808080;">企业文化</a></div>
 <br/>
-<!-- <img src="/wp-content/uploads/2016/09/1.jpg"> -->
-<img src="/wp-content/uploads/2016/09/DetRightAdv01.jpg">
-<img src="/wp-content/uploads/2016/09/DetRightAdv02.jpg" style="margin-top:20px;">
+ <img src="/wp-content/uploads/2016/09/lianxiwomen.jpg">
+
 
 <img src="/wp-content/uploads/2016/09/2.jpg" style="margin-top:20px;">
 		</div><!-- #secondary -->

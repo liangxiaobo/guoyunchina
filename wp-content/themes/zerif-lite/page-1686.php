@@ -66,7 +66,7 @@ get_header(); ?>
 
 	<!-- 我自定义的内容 -->
 	</div>
-	<div class="sidebar-wrap col-md-3 content-left-wrap" style="height:740px;">
+	<div class="sidebar-wrap col-md-3 content-left-wrap" style="min-height:750px;">
 		<div id="secondary" class="widget-area" role="complementary">
 			<div style="clear:both;"></div>
 			<div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="/?page_id=53" style="color:#808080;">国内贸易可追索明保理业务</a></div>
@@ -74,10 +74,9 @@ get_header(); ?>
 <div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="/?page_id=61 " style="color:#808080;">融资租赁、售后回租</a></div>
 <div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="/?page_id=65 " style="color:#808080;">其他贷款咨询与融资服务等</a></div>
 <br/>
-<img src="/wp-content/uploads/2016/09/DetRightAdv01.jpg">
-<img src="/wp-content/uploads/2016/09/DetRightAdv02.jpg" style="margin-top:20px;">
+ <a href="/?page_id=115" ><img src="/wp-content/uploads/2016/09/1.jpg"> </a>
 
-<img src="/wp-content/uploads/2016/09/2.jpg" style="margin-top:20px;">
+<img src="/wp-content/uploads/2016/09/2.jpg" style="margin-top:20px; margin-bottom:20px;">
 		</div><!-- #secondary -->
 	</div>
 

@@ -12,9 +12,9 @@
 
 		<?php if ( ! dynamic_sidebar( 'sidebar-1' ) ) : ?>
 
-			<aside id="search" class="widget widget_search">
+			<!--<aside id="search" class="widget widget_search">
 
-				<?php get_search_form(); ?>
+				<?php //get_search_form(); ?>
 
 			</aside>
 
@@ -22,10 +22,10 @@
 
 				<h2 class="widget-title"><?php _e( 'Archives', 'zerif-lite' ); ?></h2>
 				<ul>
-					<?php wp_get_archives( array( 'type' => 'monthly' ) ); ?>
+					<?php //wp_get_archives( array( 'type' => 'monthly' ) ); ?>
 				</ul>
 
-			</aside>
+			</aside> -->
 
 			<!--<aside id="meta" class="widget">
 
@@ -38,6 +38,24 @@
 				</ul>
 
 			</aside> -->
+
+
+
+			<!-- 我自定义的内容 -->
+			
+				<div id="secondary" class="widget-area" role="complementary">
+					<div style="clear:both;"></div>
+					<div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="/?page_id=12"  style="color:#808080;">公司动态</a></div>
+			<div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="#zuzhijiagou" style="color:#808080;">行业讯息</a></div>
+
+		<br/>
+ 			<a href="/?page_id=115" ><img src="/wp-content/uploads/2016/09/1.jpg"> </a> 
+
+		<img src="/wp-content/uploads/2016/09/2.jpg" style="margin-top:20px;">
+		</div><!-- #secondary -->
+		
+
+		<!-- end ------- -->
 
 		<?php endif; ?>
 

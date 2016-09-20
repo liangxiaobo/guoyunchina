@@ -95,10 +95,7 @@ get_header(); ?>
 <div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="#zuzhijiagou" style="color:#808080;">行业讯息</a></div>
 
 <br/>
-<!-- <img src="/wp-content/uploads/2016/09/1.jpg"> -->
-
-<img src="/wp-content/uploads/2016/09/DetRightAdv01.jpg">
-<img src="/wp-content/uploads/2016/09/DetRightAdv02.jpg" style="margin-top:20px;">
+ <a href="/?page_id=115" ><img src="/wp-content/uploads/2016/09/1.jpg"> </a>
 
 <img src="/wp-content/uploads/2016/09/2.jpg" style="margin-top:20px;">
 		</div><!-- #secondary -->
