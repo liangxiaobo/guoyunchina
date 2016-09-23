@@ -16,7 +16,7 @@ my frist test page!
 
 <?php
 
-    query_posts( 'showposts=10&cat=5' );
+    query_posts( 'showposts=10&cat=5,6' );
 	
 ?>
 

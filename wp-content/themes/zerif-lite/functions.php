@@ -1308,3 +1308,18 @@ function zerif_lite_update_options_in_pirate_forms() {
 
     endif;
 }
+
+// 自定义内容
+function custom_loginlogo() {
+	echo '<style type="text/css">
+	h1 a {background-image: url('.get_bloginfo('template_directory').'/images/login_logo.png) !important; }
+	</style>';
+}
+add_action('login_head', 'custom_loginlogo');
+
+function annointed_admin_bar_remove() {  
+        global $wp_admin_bar;  
+        /* Remove their stuff */  
+        $wp_admin_bar->remove_menu('wp-logo');  
+}  
+add_action('wp_before_admin_bar_render', 'annointed_admin_bar_remove', 0);  
