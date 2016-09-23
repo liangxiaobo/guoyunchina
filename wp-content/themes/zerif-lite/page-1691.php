@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: 公司动态模板.
+ * Template Name: 行业资讯模板.
  */
 get_header(); ?>
 
@@ -34,7 +34,7 @@ get_header(); ?>
 				
 			<?php
 
-			    query_posts( 'showposts=100&cat=5' );
+			    query_posts( 'showposts=100&cat=6' );
 				
 			?>
 

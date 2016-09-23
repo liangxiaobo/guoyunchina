@@ -43,7 +43,7 @@
 
 			<!-- 我自定义的内容 -->
 			
-				<div id="secondary" class="widget-area" role="complementary">
+				<div id="secondary" class="widget-area" role="complementary" style="min-height:750px;">
 					<div style="clear:both;"></div>
 					<div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="/?page_id=12"  style="color:#808080;">公司动态</a></div>
 			<div style="padding:10px 0;border-bottom:1px solid rgba(0, 0, 0, 0.05);"><a href="#zuzhijiagou" style="color:#808080;">行业讯息</a></div>
